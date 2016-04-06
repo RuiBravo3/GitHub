@@ -1,0 +1,369 @@
+﻿body{
+    margin: 0;
+    width:100%;
+    min-height:100%;
+    
+    background-color:#8d8269;
+}
+.bar{
+    margin-top:1%;
+    text-align:center;
+}
+#meesageTempletge{
+    background-image:url('Header-Bg.png');
+}
+/*-------------------------------------------------------------------------*/
+#topRatedgrid{
+    width:100%;
+    text-align:left;
+    border-color:transparent;
+    border-style:hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+}
+#msgGrid{
+    width:100%;
+    text-align:Center;
+    border-color:transparent;
+    border-style:hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+}
+#movieInfoGrid {
+    width: 100%;
+    text-align: center;
+    border-color: transparent;
+    border-style: hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family: 'Buxton Sketch';
+    color:black;
+}
+#userModGrid{
+    width: 80%;
+    text-align: center;
+    border-color: transparent;
+    border-style: hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family: 'Buxton Sketch';
+    color:white;
+}
+#commentsGrid{
+    width: 80%;
+    text-align: center;
+    border-color: transparent;
+    border-style: hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family: 'Buxton Sketch';
+    color:white;
+}
+#rateGrid {
+    width: 100%;
+    text-align: center;
+    border-color: transparent;
+    border-style: hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family: 'Buxton Sketch';
+    color:yellow;
+}
+#cmtGrid{
+        width: 100%;
+    text-align: center;
+    border-color: transparent;
+    border-style: hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family: 'Buxton Sketch';
+    color:black;
+}
+#srcbyNameGrid{
+    width:100%;
+    text-align:left;
+    border-color:transparent;
+    border-style:hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    color:black;
+}
+#srcbyCategrid{
+    width:100%;
+    text-align:left;
+    border-color:transparent;
+    border-style:hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    color:black;
+}
+#lastRatesGrid{
+    width:100%;
+    text-align:right;
+    border-color:transparent;
+    border-style:hidden;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+}
+#msgGridView{
+    width:100%;
+    border-color:transparent;
+    border-style:hidden;
+}
+#Label1{
+ font-size:50px;
+ text-align:left;
+ color:white;
+}
+#back_ {
+    background-image:url('Header-Bg.png');
+    width:100%;
+}
+/*----------------------------------------------------------------*/
+.bar a{
+    color: brown;
+    font-size: 22px;
+    padding: 15px;
+    text-align:center;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+}
+.title{
+    background-image:url('Header-Bg.png');
+    font-size:31px;
+    text-align:center;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+   color:white;
+   padding-top:1%;
+    
+}
+
+
+/* Left Menu */
+.left_menu{
+    float:left;
+    margin-top:10%;
+    width:20%;
+    text-align:right;
+   
+
+}
+.leftbox{
+    opacity:0.7;
+    background-color:#b2a79a;
+    border: 1px solid #b1a7a7;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    text-align:center;
+    margin-top:-0.1%;
+    width:96%;
+}
+.left_menu p{
+
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    font-size:18px;
+    text-align:center;
+
+}
+.left_menu td{
+    color:black;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    font-size:18px;
+    text-align:left;
+    margin-left: 80px;
+}
+
+
+/* Right Menu */
+
+.title_r{
+    background-image:url('Header-Bg.png');
+    font-size:31px;
+    text-align:center;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+   color:white;
+   padding-top:1%;
+    
+}
+
+.rightbox{
+    float:right;
+    opacity:0.7;
+    background-color:#b2a79a;
+    border: 1px solid #b1a7a7;
+    border-bottom-right-radius:5px;
+    border-bottom-left-radius:5px;
+    text-align:right;
+    margin-top:-0.1%;
+    width:96%;
+}
+
+
+
+
+.right_menu{
+    float:right;
+    margin-top:10%;
+    width:20%;
+    text-align:right;
+   
+
+}
+
+.right_menu p{
+
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+    font-size:14px;
+    direction:rtl;
+}
+
+/*End right*/
+
+/*Center Website:*/
+
+
+.news_box{
+    width:55%;
+    margin-top:3%;
+    height: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+
+#news_content{
+    width:100%;
+   overflow:auto; 
+    font-size:18px;
+    text-align:left;
+    opacity:0.7;
+    background-color:#988875;
+    border: 1px solid #bbb2b2;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    text-align:justify;
+    margin-top:-0.1%;
+    font-family:Tahoma;
+    color:whitesmoke;
+    text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';   
+
+}
+#title_news{
+    background-image:url('Header-Bg.png');
+    font-size:31px;
+    text-align:center;
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    font-family:'Buxton Sketch';
+   
+     color:white;
+     border: 1px solid #bbb2b2;
+    
+}
+
+/* End Center Website*/
+a{
+   text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    text-align:center;
+    color:#ffffff;
+    font-size:18px;
+    text-decoration:none;
+    font-family:'Buxton Sketch';
+
+}
+
+a:hover{
+    color:#d0cbac;
+}
+
+#selected{
+    font-weight:bold;
+}
+.header{
+    width:100%;
+    background-image:url('Header-Bg.png');
+    border-bottom:4px solid #8d8269;
+}
+
+.header p{
+   text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    text-align:left;
+    margin:0 10%;
+    color:#ffffff;
+    font-family:'Buxton Sketch';
+    font-size:36px;
+
+}
+
+
+#content{
+    width:85%;
+    height:100%;
+     overflow:auto; 
+    background-color:#e6e0d9;
+    -webkit-box-shadow: 3px 3px 8px rgba(50, 48, 50, 0.34);
+    -moz-box-shadow:    3px 3px 8px rgba(50, 48, 50, 0.34);
+    box-shadow:         3px 3px 8px rgba(50, 48, 50, 0.34);
+    position: absolute;
+    left: 7.5%;
+    right: 7.5%;
+
+}
+.welcome{
+    text-shadow: 1px 1px 2px rgba(150, 150, 150, 1);
+    text-align:left;
+    margin:0 10%;
+    color:#ffffff;
+    font-family:'Buxton Sketch';
+    font-size:20px;
+
+}
+#footer {
+  bottom: 0;
+  color: #707070;
+  height: 2em;
+  left: 0;
+  font-family:'Buxton Sketch';
+  position: static;
+  font-size: small;
+  width:100%;
+   background-image:url('Header-Bg.png');
+}
+
+#button{
+font-family:'Buxton Sketch';
+color: rgb(255, 255, 255);
+font-size: 20px;
+padding: 15px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 13.5px;
+-moz-border-radius: 13.5px;
+border-radius: 13.5px;
+background: rgb(210, 20, 20);
+background: -moz-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -webkit-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -o-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -ms-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: rgb(210, 20, 20);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+}
+
+    .Empty
+    {
+        background: url("../Empty.png") no-repeat right top;
+    }
+    .Empty:hover
+    {
+        background: url("../Filled.png") no-repeat right top;
+    }
+    .Filled
+    {
+        background: url("../Filled.png") no-repeat right top;
+    }

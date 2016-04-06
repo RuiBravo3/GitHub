@@ -1,0 +1,59 @@
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\documents\visual studio 2010\Projects\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Form1.resources
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Form1.resources
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.3\Bullet_Trajectory.0.1.2\Bullet_Trajectory.0.1\Bullet_Trajectory.0.1\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csprojResolveAssemblyReference.cache
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\gabri_000\Desktop\Bullet_Trajectory.0.1.4\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.5\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.6\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Roman\Downloads\Bullet_Trajectory.0.1.6\Bullet_Trajectory.0.1.5\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
