@@ -57,3 +57,11 @@ C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1
 C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
 C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
 C:\Users\Gabriel Menachem\Desktop\Bullet_Trajectory_1.00 (1)\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.exe
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\bin\Debug\Bullet_Trajectory.pdb
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.MainForm.resources
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.Properties.Resources.resources
+C:\Users\Gabriel Menachem\Desktop\D\GitHub\GitHub\Bullet_Trajectory_1.00\Bullet_Trajectory_1.00\Bullet_Trajectory\Bullet_Trajectory\obj\x86\Debug\Bullet_Trajectory.csproj.GenerateResource.Cache
